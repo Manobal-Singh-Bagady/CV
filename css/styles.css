@@ -1,0 +1,31 @@
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  /* background-color: white; */
+
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: grey;
+
+  /* border-radius: 5px; */
+  /* border-style: none;
+    border-top-style: dotted; */
+  /* height: 2px; */
+  width: 5%;
+}
+
+img {
+  height: 220px;
+}
+
+h1 {
+    color: #66bfbf;
+    text-decoration: overline #66bfbf solid 1px;
+    /* text-shadow: 2px 2px 5px cyan; */
+}
+
+h3 {
+    color: #66bfbf;
+}
